@@ -1,0 +1,30 @@
+Crear un sistema de geolocalizacion.
+
+El sistema debera ser capaz de localizar maletines en tiempo real,
+Poder crear usuarios para que se puedan loguear y cada usuario tendra 
+sus propios maletines los cuales los podra estar monitoreando,
+El usuario podra crear rutas de donde saldra el maletin y a donde se dirige,
+El usuario podra crear viajes los cuales necesitaran una ruta para saber por donde se iran,
+El usuario podra registrar a sus clientes a los cuales se les aran los viajes,
+
+
+
+Tareas por hacer
+
+crear un control de usuarios
+crear modelo de maletines, rutas, clientes y viajes
+relacionar los modelos y crear controladores y vistas para poder hacer el crud de cada modelo
+implementar api de google maps con la aplicacion
+hacer base de datos de la aplicacion con mongo db
+conectar aplicacion con base de datos
+hacer que un maletin se pueda geolocalizar por medio de un gps en tiempo real
+graficar todo lo necesario para que se mira graficamente lo que esta sucediendo
+crear alertas de que es lo que sucede en el transcurso del viaje
+crear modulo donde este un historial de todos los viajes que ha echo mi maletin y poder trazar y 
+simular el viaje que realizo por si en algun momento se desea saber que paso en dicho viaje.
+
+
+generar reportes de todo el sistema, ya sea de viajes o de usuarios
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Notas:el sistema estara dificil de hacer
